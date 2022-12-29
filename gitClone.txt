@@ -1,0 +1,3 @@
+git clone (repository_https://(github_usernam:TOKEN)@github.com.......)
+
+example : git clone https://devang-ansorbit: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@github.com/sagar-gohel-96/rtk-query-ts.git
